@@ -1,0 +1,7 @@
+# How to RUN
+- Make sure you have installed java19 before running the code
+- Run the program using "make compile" command.
+- once the server.java and client.java are compiled, use the command "make server" command.
+- Later use the "make client" command to connect with the server.(i have mentioned "in-csci-rrpc01.cs.iupui.edu" machine in line 21 of client.java)
+- type in the username and password. (username: spandana and password: cirimoni are already registered user credentials)
+- type the file name:(sample1.txt is a sample text file to test)
